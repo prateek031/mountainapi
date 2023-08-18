@@ -52,15 +52,7 @@ const  mountainData = [
         "price": 10,
         "discription": "Ben Nevis Scottish Gaelic: Beinn Nibheis, Scottish Gaelic pronunciation:  is the highest mountain in Scotland, the United Kingdom and the British Isles. The summit is 1,345 metres (4,413 ft)[1] above sea level and is the highest land in any direction for 739 kilometres (459 miles).[3][a] Ben Nevis stands at the western end of the Grampian Mountains in the Highland region of Lochaber, close to the town of Fort William.The mountain is a popular destination, attracting an estimated 130,000 ascents a year,[4] around three-quarters of which use the Mountain Track from Glen Nevis.[5] The 700-metre (2,300 ft) cliffs of the north face are among the highest in Scotland, providing classic scrambles and rock climbs of all difficulties for climbers and mountaineers. They are also the principal locations in Scotland for ice climbing."
     },
-        {
-        "id": 6,
-        "location": "Denali",
-        "country": "North America",
-        "imgurl": "https://w0.peakpx.com/wallpaper/326/660/HD-wallpaper-forest-green-mountains-nature-sun-sunlight-trees.jpg",
-        "rating": 5,
-        "price": 85,
-        "discription": "Denali, also called Mount McKinley, is the tallest mountain in North America, located in south-central Alaska. With a peak that reaches 6,190 meters (20,310 feet) above sea level, Denali is the third-highest of the Seven Summits (the tallest peaks on all seven continents). Denali is about 210 kilometers (130 miles) north-northwest of Anchorage. Sixty million years ago, tectonic uplift pushed Earth's crust upward, forming Denali and the other Alaska Range mountains. Denali is the centerpiece of the Denali National Park and Preserve, which spans 2.4 million hectares (6 million acres) of land.\n“Denali” comes from Koyukon, a traditional Native Alaskan language, and means “the tall one.” This name had been used for many generations and was used by early non-Native researchers and naturalists. But in 1896, William A. Dickey, a prospector, began calling Denali “Mount McKinley,” in honor of William McKinley, a presidential candidate at the time. After McKinley became president and was later assassinated, Congress formally recognized the name in 1917, despite McKinley's tenuous ties to Alaska (he had never visited). But Native Alaskans, as well as locals of varied backgrounds, continued to call the mountain Denali. In 1975, a movement began to rename the mountain Denali, but it was blocked by politicians in Ohio, McKinley's home state. Finally, President Barack Obama and Secretary of the Interior Sally Jewell took action in 2015 to change the name back to Denali, which is now its official name.\n In 2015, Denali was measured using state-of-the-art equipment by the United States Geological Survey (USGS), who determined the definitive and now widely accepted height of the mountain: 6,190 meters (20,310 feet). However, a report released in 2013 gave its elevation as 6,168 meters (20,237 feet). Both measurements were different from the long-standing figure of 6,194 meters (20,320 feet) that had been circulated since the 1950s, when the mountain was first measured."
-    },
+       
    
 
 
