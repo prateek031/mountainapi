@@ -38,7 +38,7 @@ const  mountainData = [
         "id": 4,
         "location": "Kirkjufell",
         "country": "peninsula",
-        "imgurl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fsunrise-mountain&psig=AOvVaw0koKz1aWtzJGfKwW83TNCU&ust=1692426579020000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIComLrK5YADFQAAAAAdAAAAABAE",
+        "imgurl": "https://images.unsplash.com/photo-1610476840592-0743ba8caec5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=327&q=80",
         "rating": 5,
         "price": 35,
         "discription": "Peaking at 463 meters, 1519 feet, Kirkjufell is an impressive landmark. Throughout the centuries, Kirkjufell's striking slopes have acted as a visual landmark for seafarers and travelers. More recently, it has attracted amateur and professional photographers alike.\nWithin walking distance from Kirkjufell is the serene and perfectly located waterfall Kirkjufellsfoss, or 'Church Mountain Falls', an excellent subject for photographers who can easily frame the mountain in the background. Despite its relatively diminutive height, Kirkjufellsfoss three steps, gentle flow, and dramatic differences between seasons make it as impressive as some of Iceland's larger waterfalls."
@@ -51,6 +51,15 @@ const  mountainData = [
         "rating": 2,
         "price": 10,
         "discription": "Ben Nevis Scottish Gaelic: Beinn Nibheis, Scottish Gaelic pronunciation:  is the highest mountain in Scotland, the United Kingdom and the British Isles. The summit is 1,345 metres (4,413 ft)[1] above sea level and is the highest land in any direction for 739 kilometres (459 miles).[3][a] Ben Nevis stands at the western end of the Grampian Mountains in the Highland region of Lochaber, close to the town of Fort William.The mountain is a popular destination, attracting an estimated 130,000 ascents a year,[4] around three-quarters of which use the Mountain Track from Glen Nevis.[5] The 700-metre (2,300 ft) cliffs of the north face are among the highest in Scotland, providing classic scrambles and rock climbs of all difficulties for climbers and mountaineers. They are also the principal locations in Scotland for ice climbing."
+    },
+           {
+        "id": 6,
+        "location": "denali",
+        "country": " North America",
+        "imgurl": "https://images.unsplash.com/photo-1594987121044-d21eb351dc22?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "rating": 2,
+        "price": 10,
+        "discription":"Mount McKinley, its former official name) is the highest mountain peak in North America, with a summit elevation of 20,310 feet (6,190 m) above sea level. It is the tallest mountain in the world from base-to-peak on land, measuring 18,000 ft (5,500 m),[8] and Earth's highest mountain north of 43°N. With a topographic prominence of 20,194 feet (6,155 m) and a topographic isolation of 4,621.1 miles (7,436.9 km),[3] Denali is the third most prominent and third-most isolated peak on Earth, after Mount Everest and Aconcagua. Located in the Alaska Range in the interior of the U.S. state of Alaska, Denali is the centerpiece of Denali National Park and Preserve.An aerial photo Denali in 1987The Koyukon people who inhabit the area around the mountain have referred to the peak as Denali for centuries. In 1896, a gold prospector named it Mount McKinley in support of then-presidential candidate William McKinley; that name was the official name recognized by the federal government of the United States from 1917 until 2015. In August 2015, 40 years after Alaska had done so, the United States Department of the Interior announced the change of the official name of the mountain to Denali.In 1903, James Wickersham recorded the first attempt at climbing Denali, which was unsuccessful. In 1906, Frederick Cook claimed the first ascent, but this ascent is unverified and its legitimacy questioned. The first verifiable ascent to Denali's summit was achieved on June 7, 1913, by climbers Hudson Stuck, Harry Karstens, Walter Harper, and Robert Tatum, who went by the South Summit. In 1951, Bradford Washburn pioneered the West Buttress route, considered to be the safest and easiest route, and therefore the most popular currently in use.On September 2, 2015, the U.S. Geological Survey announced that the mountain is 20,310 feet (6,190 m) high,[1] not 20,320 feet (6,194 m), as measured in 1952 using photogrammetry."
     },
        
    
